@@ -6,5 +6,6 @@ public class GitTest2 {
 
     public void play(){
         System.out.println("坦克世界");
+        System.out.println("荒野行动");
     }
 }
